@@ -11,4 +11,3 @@ let ultimoCaracter = estudiante.charAt(estudiante.length - 1)
 let noEspacios = estudiante.replace(/\s+/g, '')
 let exites = estudiante.includes(nombre)
 
-console.log(exites)
